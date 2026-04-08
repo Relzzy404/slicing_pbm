@@ -1,16 +1,25 @@
-# slicing_payments
+# Flutter UI Slicing - Payment Detail
 
-A new Flutter project.
+## 📌 Deskripsi
+Project ini merupakan hasil slicing UI menggunakan Flutter.
+Tampilan yang dibuat adalah halaman Detail Pembayaran dengan desain clean dan modern.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+<img width="724" height="946" alt="Screenshot 2026-04-08 221732" src="https://github.com/user-attachments/assets/89e3fca6-29ac-4183-9742-864330a53332" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Fitur
+- UI Payment Detail
+- Layout menggunakan Column & Row
+
+---
+
+## 🛠️ Teknologi
+- Flutter
+- Dart
+
+---
